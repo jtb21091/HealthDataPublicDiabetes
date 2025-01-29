@@ -7,3 +7,4 @@ https://gis.cdc.gov/grasp/diabetes/diabetesatlas.html
 
 ![Diabetes Trends](pngfiles/rate_per_1000_trend.png)
 
+![Diabetes Trends](pngfiles/rate_per_100000_trend.png)
